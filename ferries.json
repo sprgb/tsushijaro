@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "ferries": [
+    {
+      "id": "panstar_tsushima",
+      "operator": "팬스타 쓰시마링크호 (고속선)",
+      "bookingUrl": "https://www.panstarcruise.com/",
+      "recommended": true
+    },
+    {
+      "id": "nina_ferry",
+      "operator": "스타라인 니나호 (고속선)",
+      "bookingUrl": "https://tsushimaferry.com/"
+    },
+    {
+      "id": "daea_express",
+      "operator": "대아고속해운 씨플라워호",
+      "bookingUrl": "https://www.daea.com/"
+    }
+  ]
+}
